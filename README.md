@@ -25,5 +25,3 @@ Hello, my name is Dilru Kumarathunga and I am a undergraduate student👩🏽‍
 
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=appveyor)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=appveyor)&nbsp;&nbsp;
-
-![Badge01](https://developers.google.com/profile/badges/community/innovators/cloud/2021_member)
