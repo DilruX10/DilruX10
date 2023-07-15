@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="CmS5pzjBRTG1nCZPi1-9u4Zzjb9pkd1tdLgPO_LT0VY" />
 ### Hi there 👋, I am [Dilru]()! 😁
 
 Hello, my name is Dilru Kumarathunga and I am an undergraduate student👩🏽‍🎓 at [Sri Lanka Institute of Information Technology](https://www.sliit.lk/) majoring in Software Egineering. My tech stack involves Java/J2EE, Springboot, SQL, Javascript and Python. I have interest in Design Patterns, Data Structures and Algorithms. Besides programming, I have an immense interest in books and movies.
@@ -67,3 +68,4 @@ Hello, my name is Dilru Kumarathunga and I am an undergraduate student👩🏽�
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)&nbsp;&nbsp;
 
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
+
