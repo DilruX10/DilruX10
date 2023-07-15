@@ -3,7 +3,7 @@
 Hello, my name is Dilru Kumarathunga and I am a undergraduate student👩🏽‍🎓 at [Sri Lanka Institute of Information Technology](https://www.sliit.lk/) majoring in Software Egineering. My tech stack involves Java/J2EE, Springboot, SQL, Javascript and Python. I have interest in Design Patterns, Data Structures and Algorithms. Besides programming, I have an immense interest in books and movies.
 
 - 🔭 I’m currently studying Database System and UI/UX Engineering
-- 🌱 I’m currently learning React Native and NestJS
+- 🌱 I’m currently learning React Native, NestJS & PostgreSQL
 
 **Languages and Tools:** 
 
