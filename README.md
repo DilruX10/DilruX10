@@ -1,11 +1,13 @@
-### Hi there 👋, I am [Dilru]()! 😁
+# Hi there 👋, I am [Dilru]()! 😁
 
 Hello, my name is Dilru Kumarathunga and I am a undergraduate student👩🏽‍🎓 at [Sri Lanka Institute of Information Technology](https://www.sliit.lk/) majoring in Software Egineering. My tech stack involves Java/J2EE, Springboot, SQL, Javascript and Python. I have interest in Design Patterns, Data Structures and Algorithms. Besides programming, I have an immense interest in books and movies.
 
 - 🔭 I’m currently studying Database System and UI/UX Engineering
 - 🌱 I’m currently learning React Native, NestJS & PostgreSQL
 
-**Languages and Tools:** 
+## Languages and Tools
+
+#### Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;&nbsp;
 ![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;&nbsp;
@@ -34,13 +36,11 @@ Hello, my name is Dilru Kumarathunga and I am a undergraduate student👩🏽‍
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=appveyor)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=appveyor)&nbsp;&nbsp;
 
-#### &nbsp;
 #### Currently Learning
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;&nbsp;
 
-#### &nbsp;
 #### Academic
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;&nbsp;
@@ -48,11 +48,9 @@ Hello, my name is Dilru Kumarathunga and I am a undergraduate student👩🏽‍
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;&nbsp;
 
-#### &nbsp;
 #### OS
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)&nbsp;&nbsp;
 
-#### &nbsp;
 #### Tools
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)&nbsp;&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;&nbsp;
