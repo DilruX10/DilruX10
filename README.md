@@ -1,4 +1,4 @@
-# Hi there 👋, I am [Dilru]()! 😁
+# Hi there 👋, I am [Dilru]()! 😄
 
 Hello, my name is Dilru Kumarathunga and I am a undergraduate student👩🏽‍🎓 at [Sri Lanka Institute of Information Technology](https://www.sliit.lk/) majoring in Software Engineering. My tech stack involves Java/J2EE, Springboot, SQL, Javascript and Python. I have interest in Design Patterns, Data Structures and Algorithms. Besides programming, I have an immense interest in books and movies.
 
