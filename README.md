@@ -44,8 +44,9 @@ Hello, my name is Dilru Kumarathunga and I am a undergraduate student👩🏽‍
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;
 
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=appveyor)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=appveyor)&nbsp;&nbsp;
+![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
 #### Academic
 
