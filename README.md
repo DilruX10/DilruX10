@@ -1,10 +1,8 @@
-- 🌱 I’m currently learning React & Express
 ### Hi there 👋, I am [DSK]()! 😁
 
-Hello, my name is Dilru Kumarathunga and I am a undergraduate student👩🏽‍🎓 at [Sri Lanka Institute of Information Technology](https://www.sliit.lk/) majoring in Software Egineering. I am a trainee full-stack software developer👩🏽‍💻 with preference for Backend Engineering. My technology stack involves Java/J2EE, Python, MySQL, Javascript and, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in books.
+Hello, my name is Dilru Kumarathunga and I am a undergraduate student👩🏽‍🎓 at [Sri Lanka Institute of Information Technology](https://www.sliit.lk/) majoring in Software Egineering. My tech stack involves Java/J2EE, Springboot, SQL, Javascript and Python. Besides programming, I have an immense interest in books and movies.
 
-- 🔭 I’m currently working on DSMS Project
-- 🌱 I’m currently learning React and Express
+- 🌱 I’m currently learning React Native and NestJS
 
 **Languages and Tools:** 
 
