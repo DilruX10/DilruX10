@@ -9,8 +9,6 @@ Hello, my name is Dilru Kumarathunga and I am a undergraduate student👩🏽‍
   
 - 💻 Visit my [Personal Portfolio](https://dilrux10.github.io/)
 
-<br/>
-
 ## Languages and Tools
 
 ### Languages
