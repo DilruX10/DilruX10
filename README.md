@@ -8,10 +8,9 @@ Hello, my name is Dilru Kumarathunga and I am a undergraduate student👩🏽‍
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;&nbsp; ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;&nbsp; ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;&nbsp;
   
 - 💻 Visit my [Github Portfolio](https://github.com/DilruX10)
-<br/><br/>
 
-*** 
-#### &nbsp;
+<br/>
+
 ## Languages and Tools
 
 ### Languages
