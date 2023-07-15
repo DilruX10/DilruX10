@@ -9,6 +9,8 @@ Hello, my name is Dilru Kumarathunga and I am a undergraduate student👩🏽‍
   
 - 💻 Visit my [Personal Portfolio](https://dilrux10.github.io/)
 
+## Languages & Tools
+
 ### Languages:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;
