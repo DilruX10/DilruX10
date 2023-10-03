@@ -1,11 +1,11 @@
 # Hi there 👋, I am [Dilru]()! 😄
 
-Hello, my name is Dilru Kumarathunga and I am a undergraduate student👩🏽‍🎓 at [Sri Lanka Institute of Information Technology](https://www.sliit.lk/) majoring in Computer Software Engineering. My tech stack involves Java/J2EE, Springboot, SQL, React, Javascript and Python. I have interest in Design Patterns, Data Structures and Algorithms. Besides programming, I have an immense interest in books and movies.
+Hello, my name is Dilru Kumarathunga and I am a undergraduate student👩🏽‍🎓 at [Sri Lanka Institute of Information Technology](https://www.sliit.lk/) majoring in Computer Software Engineering. My tech stack involves Java/J2EE, SQL, React, ExpressJS, MongoDB and Python. I have interest in Design Patterns, Data Structures and Algorithms. Besides programming, I have an immense interest in books and movies.
 
 - 🔭 I’m currently studying Database System and UI/UX Engineering
   
 - 🌱 I’m currently learning <br/><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;&nbsp; ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;&nbsp; ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;&nbsp;![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;&nbsp; &nbsp;&nbsp;![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;&nbsp;
   
 - 💻 Visit my [Personal Website](https://dilrux10.github.io/)
 
@@ -37,32 +37,22 @@ Hello, my name is Dilru Kumarathunga and I am a undergraduate student👩🏽‍
 
 ### Back-End Development
 
-![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;&nbsp;
-
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;&nbsp;
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)&nbsp;&nbsp;
 
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;&nbsp;
-
 ### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;&nbsp;
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;&nbsp;
 ![MS SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;&nbsp;
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;&nbsp;
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;&nbsp;
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ### Version Control
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=appveyor)&nbsp;&nbsp;
-
-### Other
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ### OS
 
