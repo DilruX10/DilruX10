@@ -8,7 +8,7 @@ Hello, my name is Dilru Kumarathunga and I am a undergraduate student👩🏽‍
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;&nbsp;![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;&nbsp; &nbsp;&nbsp;![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;&nbsp;
   
 - 💻 Visit [LinkedIn Profile](https://www.linkedin.com/in/dilru-kumarathunga/)
-- 📄 See my [Resume](https://drive.google.com/file/d/17iJb8qJZ5_T-aIIldxW-zqfE7QeMKYm1/view?usp=sharing)
+- 📄 See my [Resume](https://drive.google.com/file/d/1z0chQO0MGSpgcTKVAdYeUM5dljrvmhhb/view?usp=sharing)
 
 ## Languages & Tools
 
