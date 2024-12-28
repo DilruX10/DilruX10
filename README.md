@@ -1,6 +1,6 @@
 # Hi there 👋, I am [Dilru]()! 😄
 
-Hello, my name is Dilru Kumarathunga and I am a final year undergraduate student👩🏽‍🎓 at [Sri Lanka Institute of Information Technology](https://www.sliit.lk/) majoring in Computer Software Engineering. My tech stack involves .NET, SQL, Angular, ReactJS, ExpressJS, MongoDB and Python. Besides programming, I have an immense interest in books and movies.
+Hello, my name is Dilru Kumarathunga and I am a final year undergraduate student👩🏽‍🎓 at [Sri Lanka Institute of Information Technology](https://www.sliit.lk/) majoring in Computer Software Engineering. My tech stack involves .NET, SQL, Angular, MERN and Python. Besides programming, I have an immense interest in books and movies.
 
 - 🔭 I’m currently studying Generative AI, Language Models and Retrieval-Augmented Generation (RAG)
   
