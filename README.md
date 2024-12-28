@@ -7,4 +7,4 @@ Hello, my name is Dilru Kumarathunga and I am a final year undergraduate student
 - 🌱 I’m currently learning Django, Langchain, Langraph, n8n, Supabase
   
 - 💻 Visit [LinkedIn Profile](https://www.linkedin.com/in/dilru-kumarathunga/)
-- 📄 See my [Resume](https://www.linkedin.com/in/dilru-kumarathunga/)
+- 📄 See my [Resume](https://github.com/DilruX10/DilruX10/blob/main/Dilru_Kumarathunga_SE.pdf)
