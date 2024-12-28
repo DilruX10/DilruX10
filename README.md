@@ -1,14 +1,13 @@
 # Hi there 👋, I am [Dilru]()! 😄
 
-Hello, my name is Dilru Kumarathunga and I am a undergraduate student👩🏽‍🎓 at [Sri Lanka Institute of Information Technology](https://www.sliit.lk/) majoring in Computer Software Engineering. My tech stack involves Java/J2EE, SQL, React, ExpressJS, MongoDB and Python. I have interest in Design Patterns, Data Structures and Algorithms. Besides programming, I have an immense interest in books and movies.
+Hello, my name is Dilru Kumarathunga and I am a final year undergraduate student👩🏽‍🎓 at [Sri Lanka Institute of Information Technology](https://www.sliit.lk/) majoring in Computer Software Engineering. My tech stack involves .NET, SQL, Angular, ReactJS, ExpressJS, MongoDB and Python. Besides programming, I have an immense interest in books and movies.
 
-- 🔭 I’m currently studying Database System and UI/UX Engineering
+- 🔭 I’m currently studying Generative AI, Language Models and Retrieval-Augmented Generation (RAG)
   
-- 🌱 I’m currently learning <br/><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;&nbsp;![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;&nbsp; &nbsp;&nbsp;![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;&nbsp;
+- 🌱 I’m currently learning Django, Langchain, Langraph, n8n, Supabase
   
 - 💻 Visit [LinkedIn Profile](https://www.linkedin.com/in/dilru-kumarathunga/)
-- 📄 See my [Resume](https://drive.google.com/file/d/1z0chQO0MGSpgcTKVAdYeUM5dljrvmhhb/view?usp=sharing)
+- 📄 See my [Resume](https://www.linkedin.com/in/dilru-kumarathunga/)
 
 ## Languages & Tools
 
